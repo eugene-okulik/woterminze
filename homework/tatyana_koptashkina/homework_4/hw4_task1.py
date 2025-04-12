@@ -1,7 +1,8 @@
-my_dict = {'tuple': (1, 2, 'pig', True, 2.22),
-           'list': [3, 4, 'cat', False, 3.33],
-           'dict': {'one': 2, 2: 'two', 'threee': 3, 'four': True, 'five': 4.44},
-           'set': {1, 2, 'one', False, 5.55}
+my_dict = {
+    'tuple': (1, 2, 'pig', True, 2.22),
+    'list': [3, 4, 'cat', False, 3.33],
+    'dict': {'one': 2, 2: 'two', 'threee': 3, 'four': True, 'five': 4.44},
+    'set': {1, 2, 'one', False, 5.55},
 }
 
 # Last element of tuple.
@@ -20,4 +21,3 @@ my_dict['set'].add(333)
 my_dict['set'].discard(1)
 
 print(my_dict)
-
