@@ -13,4 +13,3 @@ for word in words:
     new_words.append(new_word)
 
 print(' '.join(new_words))
-
