@@ -11,4 +11,3 @@ def proc_result(line):
 
 
 proc_result(line1)
-
