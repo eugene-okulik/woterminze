@@ -12,8 +12,8 @@ for a in fibonacci(100002):
         print(a)
     if fib_index == 201:
         print(a)
-    #if fib_index == 1001:
-        #print(a)
-    #if fib_index == 100001:
-        #print(a)
+    # if fib_index == 1001:
+        # print(a)
+    # if fib_index == 100001:
+        # print(a)
     fib_index += 1
