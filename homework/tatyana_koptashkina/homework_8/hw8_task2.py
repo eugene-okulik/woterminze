@@ -6,6 +6,7 @@ def fibonacci(limit=100002):
         a, b = b, a + b
         count += 1
 
+
 fib_index = 1
 for a in fibonacci(100002):
     if fib_index == 6:
